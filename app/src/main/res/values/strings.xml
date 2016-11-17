@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BubbleMoon</string>
+    <string name="bonus">Next level Bonus</string>
+    <string name="score">Score</string>
+    <string name="level">Level</string>
+    <string name="about_string">About</string>
+    <string name="restart_string">New Game</string>
+    <string name="random_speed_mode_string">Random Speed Mode</string>
+    <string name="quit_string">Quit</string>
+    <string name="well_done">Well done!</string>
+    <string name="next">Next level</string>
+    <string name="start">Start</string>
+    <string name="cont">Continue</string>
+    <string name="game_over">Game Over\n</string>
+    <string name="about">Move planet and bubbles with a fling.
+        \nLet planet eat all bubbles to get to the next level.
+        \nEat peaches to increase in size.
+        \nEat fruit to gain extra time and size.
+        \n\n\nMade by RK
+        \n\nPlanet image,
+        \nmade by Unnamed\n(Viktor.Hahn@web.de)
+        \nlicensed under\nthe Creative Commons\nAttribution-ShareAlike
+        \n3.0 Unported License.\nhttp://creativecommons.org/licenses/by-sa/3.0/
+        \nFruit and ice cream images from pngimg.com, public domain
+        \nnumber images from http://pixabay.com
+        \npublic domain Creative Commons CC0 1.0
+    </string>
+</resources>
