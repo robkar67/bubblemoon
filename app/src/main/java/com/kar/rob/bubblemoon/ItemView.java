@@ -26,7 +26,7 @@ public class ItemView extends ScreenItem {
     private final ITEM_TYPE type;
     //private final int startSize;
     private final int MIN_SIZE = 32;    // min size when shrinking
-    private final int MIN_TAP = 64;     // min size for inside detection
+    private final int MIN_TAP = 70;     // min size for inside detection
     private final long REFRESH_RATE = 40L;  // ms between movements
     private volatile boolean isDone;
     private Handler mHandler = new Handler();

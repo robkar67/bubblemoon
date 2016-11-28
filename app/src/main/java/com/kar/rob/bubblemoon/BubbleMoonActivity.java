@@ -65,8 +65,8 @@ public class BubbleMoonActivity extends Activity {
     }
 
     // image bitmaps
-    private static Bitmap mBubbleImage;
-    private static Bitmap mHunterImage;
+    private Bitmap mBubbleImage;
+    private Bitmap mHunterImage;
     private final static Bitmap[] mFoodImage = new Bitmap[9];
     //    private final static Bitmap[] mBlackNumber = new Bitmap[10];
     private final static Bitmap[] mGoldNumber = new Bitmap[10];
